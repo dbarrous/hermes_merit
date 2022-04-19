@@ -31,7 +31,7 @@ Overview
 .. end-badges
 
 This is a Python package for processing and analyzing data from the Miniaturized Electron pRoton Telescope (MERiT) instrument on the Lunar Gateway.
-
+The MERiT instrument measures the flux of high-energy electrons and ions with two telescopes pointing in opposite directions and nominally spanning the forward and reverse Parker Spiral.
 
 License
 -------
