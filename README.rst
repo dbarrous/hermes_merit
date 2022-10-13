@@ -10,7 +10,7 @@ Overview
     * - docs
       - |docs| |readthedocs|
     * - build status
-      - |testing| |codestyle|
+      - |testing| |codestyle| |coverage|
 
 .. |docs| image:: https://github.com/HERMES-SOC/hermes_merit/actions/workflows/docs.yml/badge.svg
     :target: https://github.com/HERMES-SOC/hermes_merit/actions/workflows/docs.yml
@@ -19,6 +19,9 @@ Overview
 .. |testing| image:: https://github.com/HERMES-SOC/hermes_merit/actions/workflows/testing.yml/badge.svg
     :target: https://github.com/HERMES-SOC/hermes_merit/actions/workflows/testing.yml
     :alt: Build Status
+
+.. |coverage| image:: https://codecov.io/gh/HERMES-SOC/hermes_merit/branch/main/graph/badge.svg?token=WAE60XLAH5 
+   :target: https://codecov.io/gh/HERMES-SOC/hermes_merit
 
 .. |codestyle| image:: https://github.com/HERMES-SOC/hermes_merit/actions/workflows/codestyle.yml/badge.svg
     :target: https://github.com/HERMES-SOC/hermes_merit/actions/workflows/codestyle.yml
