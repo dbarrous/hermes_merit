@@ -1,0 +1,12 @@
+{
+  "template": "https://github.com/HERMES-SOC/hermes_instrument.git",
+  "commit": "eb7472acb3040056ba950cd6bbf54d3c61e9117b",
+  "context": {
+    "cookiecutter": {
+      "instr_name": "merit",
+      "_template": "https://github.com/HERMES-SOC/hermes_instrument.git"
+    }
+  },
+  "directory": null,
+  "checkout": null
+}
