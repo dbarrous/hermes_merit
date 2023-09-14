@@ -147,7 +147,7 @@ docs/_build
 docs/generated
 docs/api
 docs/whatsnew/latest_changelog.txt
-hermes_merit/version.py
+hermes_merit/_version.py
 htmlcov/
 
 #mac
